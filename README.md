@@ -40,9 +40,6 @@ Monofia Portal is a .NET 8 based application designed to manage and display news
 - `PUT /api/news/{id}`: Update an existing news article.
 - `DELETE /api/news/{id}`: Delete a news article.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 
 
